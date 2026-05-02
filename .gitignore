@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# Arduino / misc
+*.tmp
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Data exports if needed
+*.bak
+
+# Large generated files if you do not want all of them tracked
+# Uncomment if needed:
+# *.csv
+# *.png

@@ -1,0 +1,8 @@
+Flask>=3.0.0
+Pillow>=10.0.0
+adafruit-blinka>=8.0.0
+adafruit-circuitpython-epd>=2.0.0
+adafruit-circuitpython-framebuf>=1.0.0
+adafruit-circuitpython-busdevice>=5.0.0
+RPi.GPIO>=0.7.0
+spidev>=3.6
